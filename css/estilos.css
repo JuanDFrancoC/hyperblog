@@ -16,6 +16,7 @@ body{
     width: 70%;
     border: 2px solid rgb(128, 124, 136);
     margin: 10px auto;
+    background: #a3b3ff;
 }
 .contenido-blog{
     padding: 20px;
